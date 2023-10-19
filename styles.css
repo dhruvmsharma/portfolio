@@ -531,6 +531,7 @@ html, body{
 
     .page3 .text p{
         text-align: center;
+        padding-right: 0vw;
     }
 
 }
